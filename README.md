@@ -1,0 +1,1 @@
+# langchain_law_search_application
